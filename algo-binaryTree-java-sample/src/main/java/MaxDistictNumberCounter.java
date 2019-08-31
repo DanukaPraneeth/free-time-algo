@@ -4,6 +4,7 @@ import java.util.Set;
 public class MaxDistictNumberCounter {
 
     // This method will find the count of maximum distinct numbers along a path from root
+    // Question - https://drive.google.com/file/d/13FOyn7-dMdtXJPumgmPYgLj84xuIUFwg/view?usp=sharing
 
     public int findMaximumDistinctNumbers(BinaryTree T){
         //System.out.print(T.x);
