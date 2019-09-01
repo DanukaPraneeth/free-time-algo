@@ -3,13 +3,13 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class ArraySplitterWithMinDiffTest {
+public class ArraySplitterWithMinSumDiffTest {
 
-    private ArraySplitterWithMinDiff arraySplitter;
+    private ArraySplitterWithMinSumDiff arraySplitter;
 
     @Before
     public void setUp() throws Exception {
-        arraySplitter = new ArraySplitterWithMinDiff();
+        arraySplitter = new ArraySplitterWithMinSumDiff();
     }
 
     @Test

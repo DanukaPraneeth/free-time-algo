@@ -1,4 +1,4 @@
-public class ArraySplitterWithMinDiff {
+public class ArraySplitterWithMinSumDiff {
 
     // This method will split an integer array into two parts such that absolute difference of sum of left and right is minimum
     // and return the minimum absolute diff

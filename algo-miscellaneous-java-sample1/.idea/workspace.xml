@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d778209d-8217-45c4-8e3e-ea11e01e03ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/BinaryDigitCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/BinaryDigitCounterTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BinaryDigitCounter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/BinaryMaxZeroCounterWithinOnes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/BinaryDigitCounterTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/algo-miscellaneous-java.kotlin_module" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BinaryZeroCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BinaryMaxZeroCounterWithinOnes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/BinaryZeroCounterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BinaryMaxZeroCounterWithinOnesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/BinaryZeroCounter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ArraySplitterIntoMinMaxSumBlocksTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ArraySplitterIntoMinMaxSumBlocksTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/BinaryZeroCounterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BinaryMaxZeroCounterWithinOnesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ArraySplitterWithMinDiff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArraySplitterWithMinSumDiff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ArraySplitterWithMinDiffTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ArraySplitterWithMinSumDiffTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,39 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/MissingNumberInPermutation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/MissingNumberInPermutationTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="17" column="67" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/FrogCrossingBankTimeCalculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/FrogCrossingBankTimeCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -110,11 +68,38 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/BinaryDigitCounter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="15" column="100" selection-start-line="15" selection-start-column="100" selection-end-line="15" selection-end-column="100" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ArraySplitterWithMinSumDiff.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ArraySplitterWithMaxMaxvalueDiff.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ArraySplitterWithMaxMaxvalueDiffTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -133,6 +118,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin File" />
         <option value="Class" />
         <option value="JUnit4 Test Class" />
       </list>
@@ -171,6 +157,8 @@
         <option value="$PROJECT_DIR$/src/main/java/BinaryMaxZeroCounterWithinOnes.java" />
         <option value="$PROJECT_DIR$/src/test/java/BinaryDigitCounterTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/BinaryDigitCounter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ArraySplitterWithMaxMaxvalueDiffTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ArraySplitterWithMaxMaxvalueDiff.java" />
       </list>
     </option>
   </component>
@@ -271,12 +259,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.BinaryDigitCounterTest.test_BinaryZerosCount_with_validInputs">
-    <configuration name="ArraySplitterIntoMinMaxSumBlocksTest.getMinimumMaximumSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ArraySplitterWithMaxMaxvalueDiffTest.test_MaxMaxValueDiffCalculation_with_validInputs">
+    <configuration name="ArraySplitterWithMaxMaxvalueDiffTest.getMaxMaxValueDiff" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algo-miscellaneous-java" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ArraySplitterIntoMinMaxSumBlocksTest" />
-      <option name="METHOD_NAME" value="getMinimumMaximumSum" />
+      <option name="MAIN_CLASS_NAME" value="ArraySplitterWithMaxMaxvalueDiffTest" />
+      <option name="METHOD_NAME" value="getMaxMaxValueDiff" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraySplitterWithMaxMaxvalueDiffTest.test_MaxMaxValueDiffCalculation_with_validInputs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algo-miscellaneous-java" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArraySplitterWithMaxMaxvalueDiffTest" />
+      <option name="METHOD_NAME" value="test_MaxMaxValueDiffCalculation_with_validInputs" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -311,23 +309,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinaryMaxZeroCounterWithinOnesTest.test_MaxMiddleZeroCountInBinary_with_validInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algo-miscellaneous-java" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="BinaryMaxZeroCounterWithinOnesTest" />
-      <option name="METHOD_NAME" value="test_MaxMiddleZeroCountInBinary_with_validInput" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ArraySplitterWithMaxMaxvalueDiffTest.test_MaxMaxValueDiffCalculation_with_validInputs" />
+        <item itemvalue="JUnit.ArraySplitterWithMaxMaxvalueDiffTest.getMaxMaxValueDiff" />
         <item itemvalue="JUnit.BinaryDigitCounterTest.test_BinaryZerosCount_with_validInputs" />
         <item itemvalue="JUnit.BinaryDigitCounterTest" />
         <item itemvalue="JUnit.BinaryDigitCounterTest.test_BinaryOnesCounter_with_validInputs" />
-        <item itemvalue="JUnit.BinaryMaxZeroCounterWithinOnesTest.test_MaxMiddleZeroCountInBinary_with_validInput" />
-        <item itemvalue="JUnit.ArraySplitterIntoMinMaxSumBlocksTest.getMinimumMaximumSum" />
       </list>
     </recent_temporary>
   </component>
@@ -341,17 +329,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567275476801</updated>
-      <workItem from="1567275480366" duration="20081000" />
+      <workItem from="1567275480366" duration="22064000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ArraySplitterWithMinDiffTest_test_ArraySplitter_MinAbsoluteDiff_with_validInputs - 2019.09.01 at 22h 02m 13s.xml">
-      <configuration name="ArraySplitterWithMinDiffTest.test_ArraySplitter_MinAbsoluteDiff_with_validInputs" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="FrogJumpCounterTest_test_MinJumps_with_validInputs - 2019.09.01 at 22h 15m 21s.xml">
-      <configuration name="FrogJumpCounterTest.test_MinJumps_with_validInputs" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="MissingNumberInPermutationTest - 2019.09.01 at 22h 30m 06s.xml">
       <configuration name="MissingNumberInPermutationTest" configurationId="JUnit" />
     </history-entry>
@@ -376,9 +358,15 @@
     <history-entry file="BinaryDigitCounterTest_test_BinaryZerosCount_with_validInputs - 2019.09.02 at 01h 13m 55s.xml">
       <configuration name="BinaryDigitCounterTest.test_BinaryZerosCount_with_validInputs" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="ArraySplitterWithMaxMaxvalueDiffTest_getMaxMaxValueDiff - 2019.09.02 at 01h 38m 20s.xml">
+      <configuration name="ArraySplitterWithMaxMaxvalueDiffTest.getMaxMaxValueDiff" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArraySplitterWithMaxMaxvalueDiffTest_test_MaxMaxValueDiffCalculation_with_validInputs - 2019.09.02 at 01h 48m 23s.xml">
+      <configuration name="ArraySplitterWithMaxMaxvalueDiffTest.test_MaxMaxValueDiffCalculation_with_validInputs" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20081000" />
+    <option name="totallyTimeSpent" value="22064000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -391,7 +379,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24958494" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.29855716" />
+      <window_info anchor="bottom" id="Terminal" weight="0.29855716" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" />
@@ -400,7 +388,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32963374" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32963374" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32963374" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39955604" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -526,17 +514,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ArraySplitterWithMinDiffTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/ArraySplitterWithMinSumDiffTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ArraySplitterWithMinDiff.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="90" selection-start-line="4" selection-start-column="90" selection-end-line="4" selection-end-column="90" />
         </state>
       </provider>
     </entry>
@@ -631,6 +612,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="100" selection-start-line="15" selection-start-column="100" selection-end-line="15" selection-end-column="100" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArraySplitterMaxMaxvalueDiff.kt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArraySplitterWithMinSumDiff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="27" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ArraySplitterWithMaxMaxvalueDiffTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArraySplitterWithMaxMaxvalueDiff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
