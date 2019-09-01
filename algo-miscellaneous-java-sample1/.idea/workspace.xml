@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d778209d-8217-45c4-8e3e-ea11e01e03ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/ArraySplitterWithMinDiff.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ArraySplitterWithMinDiff.java" afterDir="false" />
-    </list>
+    <list default="true" id="d778209d-8217-45c4-8e3e-ea11e01e03ef" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,39 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/CityAppealCalculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PartAssemblyTimeCalculator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/PartAssemblyTimeCalculatorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="7" column="43" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="43" />
-              <folding>
-                <element signature="e#490#499#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/BinaryZeroCounter.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,11 +69,41 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/FrogJumpCounter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="82" selection-start-line="3" selection-start-column="82" selection-end-line="3" selection-end-column="82" />
+            <state relative-caret-position="90">
+              <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/FrogJumpCounterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/MissingNumberInPermutation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/MissingNumberInPermutationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -118,8 +113,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -145,6 +140,9 @@
         <option value="$PROJECT_DIR$/src/test/java/ArraySplitterWithMinDiffTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/ArraySplitterWithMinDiff.java" />
         <option value="$PROJECT_DIR$/src/main/java/FrogJumpCounter.java" />
+        <option value="$PROJECT_DIR$/src/test/java/FrogJumpCounterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/MissingNumberInPermutation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/MissingNumberInPermutationTest.java" />
       </list>
     </option>
   </component>
@@ -245,7 +243,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FrogJumpCounterTest.test_MinJumps_with_validInputs">
+  <component name="RunManager" selected="JUnit.MissingNumberInPermutationTest">
     <configuration name="ArraySplitterWithMinDiffTest.test_ArraySplitter_MinAbsoluteDiff_with_validInputs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algo-miscellaneous-java" />
       <option name="PACKAGE_NAME" value="" />
@@ -266,21 +264,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PatternCounterWithinBoundryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MissingNumberInPermutationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algo-miscellaneous-java" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PatternCounterWithinBoundryTest" />
+      <option name="MAIN_CLASS_NAME" value="MissingNumberInPermutationTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PatternCounterWithinBoundryTest.getNumberOfCharactersWithinEscaped" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="PatternCounterWithinBoundryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algo-miscellaneous-java" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="PatternCounterWithinBoundryTest" />
-      <option name="METHOD_NAME" value="getNumberOfCharactersWithinEscaped" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -297,11 +294,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MissingNumberInPermutationTest" />
         <item itemvalue="JUnit.FrogJumpCounterTest.test_MinJumps_with_validInputs" />
         <item itemvalue="JUnit.ArraySplitterWithMinDiffTest.test_ArraySplitter_MinAbsoluteDiff_with_validInputs" />
         <item itemvalue="JUnit.PatternCounterWithinBoundryTest.test_NumberOfCharactersCounter_WithinEscaped_with_validInputs" />
         <item itemvalue="JUnit.PatternCounterWithinBoundryTest" />
-        <item itemvalue="JUnit.PatternCounterWithinBoundryTest.getNumberOfCharactersWithinEscaped" />
       </list>
     </recent_temporary>
   </component>
@@ -315,14 +312,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567275476801</updated>
-      <workItem from="1567275480366" duration="14447000" />
+      <workItem from="1567275480366" duration="15397000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PartAssemblyTimeCalculatorTest_test_minimumAssemblyTimeCalculation_with_validInputs - 2019.09.01 at 02h 37m 44s.xml">
-      <configuration name="PartAssemblyTimeCalculatorTest.test_minimumAssemblyTimeCalculation_with_validInputs" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BinaryZeroCounterTest_test_MaxMiddleZeroCountInBinary_with_validInput - 2019.09.01 at 11h 24m 03s.xml">
       <configuration name="BinaryZeroCounterTest.test_MaxMiddleZeroCountInBinary_with_validInput" configurationId="JUnit" />
     </history-entry>
@@ -350,9 +344,12 @@
     <history-entry file="ArraySplitterWithMinDiffTest_test_ArraySplitter_MinAbsoluteDiff_with_validInputs - 2019.09.01 at 22h 02m 13s.xml">
       <configuration name="ArraySplitterWithMinDiffTest.test_ArraySplitter_MinAbsoluteDiff_with_validInputs" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FrogJumpCounterTest_test_MinJumps_with_validInputs - 2019.09.01 at 22h 15m 21s.xml">
+      <configuration name="FrogJumpCounterTest.test_MinJumps_with_validInputs" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14447000" />
+    <option name="totallyTimeSpent" value="15397000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -530,8 +527,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/FrogJumpCounter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="82" selection-start-line="3" selection-start-column="82" selection-end-line="3" selection-end-column="82" />
+        <state relative-caret-position="90">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/FrogJumpCounterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/MissingNumberInPermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/MissingNumberInPermutationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
         </state>
       </provider>
     </entry>
