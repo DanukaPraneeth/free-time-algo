@@ -2,6 +2,7 @@ public class ArraySplitterWithMinDiff {
 
     // This method will split an integer array into two parts such that absolute difference of sum of left and right is minimum
     // and return the minimum absolute diff
+    // Question link -         https://codility.com/demo/take-sample-test/tape_equilibrium
 
 
     public int getMinAbsoluteDiff(int[] A) {
