@@ -16,24 +16,6 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PatternCounterWithinBoundry.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/PatternCounterWithinBoundryTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ArraySplitterWithMinDiff.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -102,11 +84,33 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/FrogCrossingBankTimeCalculatorTest.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <folding>
+                <element signature="e#234#235#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ArraySplitterIntoMinMaxSumBlocks.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+              <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ArraySplitterIntoMinMaxSumBlocksTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
@@ -148,6 +152,9 @@
         <option value="$PROJECT_DIR$/src/test/java/MissingNumberInPermutationTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/FrogCrossingBankTimeCalculator.java" />
         <option value="$PROJECT_DIR$/src/test/java/FrogCrossingBankTimeCalculatorTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ArraySplitterIntoMinSumBlocks.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ArraySplitterIntoMinMaxSumBlocks.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ArraySplitterIntoMinMaxSumBlocksTest.java" />
       </list>
     </option>
   </component>
@@ -248,7 +255,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.FrogCrossingBankTimeCalculatorTest">
+  <component name="RunManager" selected="JUnit.ArraySplitterIntoMinMaxSumBlocksTest.getMinimumMaximumSum">
+    <configuration name="ArraySplitterIntoMinMaxSumBlocksTest.getMinimumMaximumSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algo-miscellaneous-java" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ArraySplitterIntoMinMaxSumBlocksTest" />
+      <option name="METHOD_NAME" value="getMinimumMaximumSum" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ArraySplitterWithMinDiffTest.test_ArraySplitter_MinAbsoluteDiff_with_validInputs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algo-miscellaneous-java" />
       <option name="PACKAGE_NAME" value="" />
@@ -287,23 +304,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PatternCounterWithinBoundryTest.test_NumberOfCharactersCounter_WithinEscaped_with_validInputs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algo-miscellaneous-java" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PatternCounterWithinBoundryTest" />
-      <option name="METHOD_NAME" value="test_NumberOfCharactersCounter_WithinEscaped_with_validInputs" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ArraySplitterIntoMinMaxSumBlocksTest.getMinimumMaximumSum" />
         <item itemvalue="JUnit.FrogCrossingBankTimeCalculatorTest" />
         <item itemvalue="JUnit.MissingNumberInPermutationTest" />
         <item itemvalue="JUnit.FrogJumpCounterTest.test_MinJumps_with_validInputs" />
         <item itemvalue="JUnit.ArraySplitterWithMinDiffTest.test_ArraySplitter_MinAbsoluteDiff_with_validInputs" />
-        <item itemvalue="JUnit.PatternCounterWithinBoundryTest.test_NumberOfCharactersCounter_WithinEscaped_with_validInputs" />
       </list>
     </recent_temporary>
   </component>
@@ -317,17 +324,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567275476801</updated>
-      <workItem from="1567275480366" duration="16750000" />
+      <workItem from="1567275480366" duration="18430000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BinaryZeroCounterTest_test_MaxMiddleZeroCountInBinary_with_validInput - 2019.09.01 at 11h 31m 16s.xml">
-      <configuration name="BinaryZeroCounterTest.test_MaxMiddleZeroCountInBinary_with_validInput" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BinaryZeroCounterTest_test_MaxMiddleZeroCountInBinary_with_validInput - 2019.09.01 at 11h 45m 01s.xml">
-      <configuration name="BinaryZeroCounterTest.test_MaxMiddleZeroCountInBinary_with_validInput" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="BinaryZeroCounterTest_test_MaxMiddleZeroCountInBinary_with_validInput - 2019.09.01 at 11h 53m 51s.xml">
       <configuration name="BinaryZeroCounterTest.test_MaxMiddleZeroCountInBinary_with_validInput" configurationId="JUnit" />
     </history-entry>
@@ -352,9 +353,15 @@
     <history-entry file="MissingNumberInPermutationTest - 2019.09.01 at 22h 30m 06s.xml">
       <configuration name="MissingNumberInPermutationTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="FrogCrossingBankTimeCalculatorTest - 2019.09.01 at 23h 49m 41s.xml">
+      <configuration name="FrogCrossingBankTimeCalculatorTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ArraySplitterIntoMinMaxSumBlocksTest_getMinimumMaximumSum - 2019.09.02 at 00h 20m 22s.xml">
+      <configuration name="ArraySplitterIntoMinMaxSumBlocksTest.getMinimumMaximumSum" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16750000" />
+    <option name="totallyTimeSpent" value="18430000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -365,9 +372,9 @@
       <window_info id="Capture Tool" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958494" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24958494" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.29855716" />
+      <window_info anchor="bottom" id="Terminal" weight="0.29855716" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" />
@@ -376,7 +383,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32963374" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32963374" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32963374" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39955604" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -573,8 +580,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/FrogCrossingBankTimeCalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ArraySplitterIntoMinMaxSumBlocks.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+          <caret line="6" column="29" lean-forward="true" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ArraySplitterIntoMinMaxSumBlocksTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
