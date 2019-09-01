@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d778209d-8217-45c4-8e3e-ea11e01e03ef" name="Default Changelist" comment="" />
+    <list default="true" id="d778209d-8217-45c4-8e3e-ea11e01e03ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/BinaryDigitCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BinaryDigitCounterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/BinaryDigitCounter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/BinaryMaxZeroCounterWithinOnes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/BinaryDigitCounterTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/algo-miscellaneous-java.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BinaryZeroCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BinaryMaxZeroCounterWithinOnes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BinaryZeroCounterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BinaryMaxZeroCounterWithinOnesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/BinaryZeroCounter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ArraySplitterIntoMinMaxSumBlocksTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ArraySplitterIntoMinMaxSumBlocksTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/BinaryZeroCounterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/BinaryMaxZeroCounterWithinOnesTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,42 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ArraySplitterWithMinDiff.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="90" selection-start-line="4" selection-start-column="90" selection-end-line="4" selection-end-column="90" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/ArraySplitterWithMinDiffTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/FrogJumpCounter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/FrogJumpCounterTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/MissingNumberInPermutation.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -106,11 +83,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/ArraySplitterIntoMinMaxSumBlocksTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
               <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BinaryMaxZeroCounterWithinOnes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/BinaryMaxZeroCounterWithinOnesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/BinaryDigitCounter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="100" selection-start-line="15" selection-start-column="100" selection-end-line="15" selection-end-column="100" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/BinaryDigitCounterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -155,6 +168,9 @@
         <option value="$PROJECT_DIR$/src/main/java/ArraySplitterIntoMinSumBlocks.java" />
         <option value="$PROJECT_DIR$/src/main/java/ArraySplitterIntoMinMaxSumBlocks.java" />
         <option value="$PROJECT_DIR$/src/test/java/ArraySplitterIntoMinMaxSumBlocksTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BinaryMaxZeroCounterWithinOnes.java" />
+        <option value="$PROJECT_DIR$/src/test/java/BinaryDigitCounterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/BinaryDigitCounter.java" />
       </list>
     </option>
   </component>
@@ -255,7 +271,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ArraySplitterIntoMinMaxSumBlocksTest.getMinimumMaximumSum">
+  <component name="RunManager" selected="JUnit.BinaryDigitCounterTest.test_BinaryZerosCount_with_validInputs">
     <configuration name="ArraySplitterIntoMinMaxSumBlocksTest.getMinimumMaximumSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algo-miscellaneous-java" />
       <option name="PACKAGE_NAME" value="" />
@@ -266,51 +282,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArraySplitterWithMinDiffTest.test_ArraySplitter_MinAbsoluteDiff_with_validInputs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BinaryDigitCounterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algo-miscellaneous-java" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ArraySplitterWithMinDiffTest" />
-      <option name="METHOD_NAME" value="test_ArraySplitter_MinAbsoluteDiff_with_validInputs" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FrogCrossingBankTimeCalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="algo-miscellaneous-java" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FrogCrossingBankTimeCalculatorTest" />
+      <option name="MAIN_CLASS_NAME" value="BinaryDigitCounterTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FrogJumpCounterTest.test_MinJumps_with_validInputs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BinaryDigitCounterTest.test_BinaryOnesCounter_with_validInputs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algo-miscellaneous-java" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FrogJumpCounterTest" />
-      <option name="METHOD_NAME" value="test_MinJumps_with_validInputs" />
+      <option name="MAIN_CLASS_NAME" value="BinaryDigitCounterTest" />
+      <option name="METHOD_NAME" value="test_BinaryOnesCounter_with_validInputs" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MissingNumberInPermutationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BinaryDigitCounterTest.test_BinaryZerosCount_with_validInputs" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="algo-miscellaneous-java" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MissingNumberInPermutationTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="BinaryDigitCounterTest" />
+      <option name="METHOD_NAME" value="test_BinaryZerosCount_with_validInputs" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinaryMaxZeroCounterWithinOnesTest.test_MaxMiddleZeroCountInBinary_with_validInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="algo-miscellaneous-java" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BinaryMaxZeroCounterWithinOnesTest" />
+      <option name="METHOD_NAME" value="test_MaxMiddleZeroCountInBinary_with_validInput" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BinaryDigitCounterTest.test_BinaryZerosCount_with_validInputs" />
+        <item itemvalue="JUnit.BinaryDigitCounterTest" />
+        <item itemvalue="JUnit.BinaryDigitCounterTest.test_BinaryOnesCounter_with_validInputs" />
+        <item itemvalue="JUnit.BinaryMaxZeroCounterWithinOnesTest.test_MaxMiddleZeroCountInBinary_with_validInput" />
         <item itemvalue="JUnit.ArraySplitterIntoMinMaxSumBlocksTest.getMinimumMaximumSum" />
-        <item itemvalue="JUnit.FrogCrossingBankTimeCalculatorTest" />
-        <item itemvalue="JUnit.MissingNumberInPermutationTest" />
-        <item itemvalue="JUnit.FrogJumpCounterTest.test_MinJumps_with_validInputs" />
-        <item itemvalue="JUnit.ArraySplitterWithMinDiffTest.test_ArraySplitter_MinAbsoluteDiff_with_validInputs" />
       </list>
     </recent_temporary>
   </component>
@@ -324,26 +341,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567275476801</updated>
-      <workItem from="1567275480366" duration="18430000" />
+      <workItem from="1567275480366" duration="20081000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BinaryZeroCounterTest_test_MaxMiddleZeroCountInBinary_with_validInput - 2019.09.01 at 11h 53m 51s.xml">
-      <configuration name="BinaryZeroCounterTest.test_MaxMiddleZeroCountInBinary_with_validInput" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BinaryZeroCounterTest - 2019.09.01 at 11h 54m 53s.xml">
-      <configuration name="BinaryZeroCounterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PatternCounterWithinBoundryTest_getNumberOfCharactersWithinEscaped - 2019.09.01 at 12h 37m 21s.xml">
-      <configuration name="PatternCounterWithinBoundryTest.getNumberOfCharactersWithinEscaped" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PatternCounterWithinBoundryTest - 2019.09.01 at 12h 37m 50s.xml">
-      <configuration name="PatternCounterWithinBoundryTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PatternCounterWithinBoundryTest_test_NumberOfCharactersCounter_WithinEscaped_with_validInputs - 2019.09.01 at 21h 16m 21s.xml">
-      <configuration name="PatternCounterWithinBoundryTest.test_NumberOfCharactersCounter_WithinEscaped_with_validInputs" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="ArraySplitterWithMinDiffTest_test_ArraySplitter_MinAbsoluteDiff_with_validInputs - 2019.09.01 at 22h 02m 13s.xml">
       <configuration name="ArraySplitterWithMinDiffTest.test_ArraySplitter_MinAbsoluteDiff_with_validInputs" configurationId="JUnit" />
     </history-entry>
@@ -359,9 +361,24 @@
     <history-entry file="ArraySplitterIntoMinMaxSumBlocksTest_getMinimumMaximumSum - 2019.09.02 at 00h 20m 22s.xml">
       <configuration name="ArraySplitterIntoMinMaxSumBlocksTest.getMinimumMaximumSum" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BinaryMaxZeroCounterWithinOnesTest_test_MaxMiddleZeroCountInBinary_with_validInput - 2019.09.02 at 01h 02m 44s.xml">
+      <configuration name="BinaryMaxZeroCounterWithinOnesTest.test_MaxMiddleZeroCountInBinary_with_validInput" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BinaryDigitCounterTest_test_BinaryOnesCounter_with_validInputs - 2019.09.02 at 01h 09m 01s.xml">
+      <configuration name="BinaryDigitCounterTest.test_BinaryOnesCounter_with_validInputs" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BinaryDigitCounterTest_test_BinaryZerosCount_with_validInputs - 2019.09.02 at 01h 09m 30s.xml">
+      <configuration name="BinaryDigitCounterTest.test_BinaryZerosCount_with_validInputs" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BinaryDigitCounterTest - 2019.09.02 at 01h 09m 35s.xml">
+      <configuration name="BinaryDigitCounterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BinaryDigitCounterTest_test_BinaryZerosCount_with_validInputs - 2019.09.02 at 01h 13m 55s.xml">
+      <configuration name="BinaryDigitCounterTest.test_BinaryZerosCount_with_validInputs" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18430000" />
+    <option name="totallyTimeSpent" value="20081000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -374,7 +391,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24958494" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" weight="0.29855716" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.29855716" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" />
@@ -383,7 +400,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32963374" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32963374" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32963374" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39955604" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -406,13 +423,13 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/BinaryZeroCounter.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/BinaryMaxZeroCounterWithinOnes.java</url>
           <line>17</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/BinaryZeroCounter.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/BinaryMaxZeroCounterWithinOnes.java</url>
           <line>18</line>
           <properties />
           <option name="timeStamp" value="2" />
@@ -492,20 +509,6 @@
           <folding>
             <element signature="e#490#499#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/BinaryZeroCounter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/BinaryZeroCounterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -600,6 +603,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BinaryMaxZeroCounterWithinOnes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="17" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BinaryMaxZeroCounterWithinOnesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="51" lean-forward="true" selection-start-line="18" selection-start-column="51" selection-end-line="18" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/BinaryDigitCounterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/BinaryDigitCounter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="100" selection-start-line="15" selection-start-column="100" selection-end-line="15" selection-end-column="100" />
         </state>
       </provider>
     </entry>

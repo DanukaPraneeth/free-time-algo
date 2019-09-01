@@ -1,4 +1,4 @@
-public class BinaryZeroCounter {
+public class BinaryMaxZeroCounterWithinOnes {
 
     public int countMaxMiddleZero(int inputInteger){
 

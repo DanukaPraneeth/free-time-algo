@@ -3,13 +3,13 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-public class BinaryZeroCounterTest {
+public class BinaryMaxZeroCounterWithinOnesTest {
 
-    private BinaryZeroCounter binaryZeroCounter;
+    private BinaryMaxZeroCounterWithinOnes binaryZeroCounter;
 
     @Before
     public void setUp() throws Exception {
-        binaryZeroCounter = new BinaryZeroCounter();
+        binaryZeroCounter = new BinaryMaxZeroCounterWithinOnes();
     }
 
     @Test
