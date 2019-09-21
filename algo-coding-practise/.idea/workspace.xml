@@ -1,25 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bc0c562-9e25-4d90-a531-34a478c07ee4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrayNstring/CharCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrayNstring/CompressString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrayNstring/ReplaceSpaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrayNstring/RotateMetrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/arrayNstring/StringPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linkedList/LinkedListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/linkedList/RemoveDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/numbers/PrimeNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/numbers/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/arrayNstring/CharCountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/arrayNstring/CompressStringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/arrayNstring/ReplaceSpacesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/arrayNstring/RotateMetrixTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/arrayNstring/StringPermutationTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/linkedList/RemoveDuplicatesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/numbers/PrimeNumberTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/numbers/QuickSortTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="6bc0c562-9e25-4d90-a531-34a478c07ee4" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/numbers/QuickSortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+            <state relative-caret-position="165">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -183,11 +165,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Learning space/Kotlin/antaeus" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../algo-datetime-java-sample1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
@@ -310,14 +293,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568734854573</updated>
-      <workItem from="1568734860637" duration="23691000" />
+      <workItem from="1568734860637" duration="23988000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="PrimeNumberTest_test_isPrime - 2019.09.20 at 14h 59m 44s.xml">
-      <configuration name="PrimeNumberTest.test_isPrime" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="PrimeNumberTest_test_isPrime - 2019.09.20 at 15h 02m 08s.xml">
       <configuration name="PrimeNumberTest.test_isPrime" configurationId="JUnit" />
     </history-entry>
@@ -345,13 +325,15 @@
     <history-entry file="QuickSortTest_test_sort - 2019.09.22 at 00h 27m 04s.xml">
       <configuration name="QuickSortTest.test_sort" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="QuickSortTest_test_sort - 2019.09.22 at 00h 27m 28s.xml">
+      <configuration name="QuickSortTest.test_sort" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23691000" />
+    <option name="totallyTimeSpent" value="23988000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -360,7 +342,7 @@
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24958494" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.772475" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" />
@@ -369,7 +351,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32963374" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24195339" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42619312" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.1254162" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -640,8 +622,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/numbers/QuickSortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+        <state relative-caret-position="165">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
