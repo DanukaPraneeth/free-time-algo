@@ -1,4 +1,5 @@
-import java.text.ParseException;
+
+
 import java.time.Instant;
 import java.time.OffsetDateTime;
 import java.time.ZoneOffset;
@@ -15,7 +16,7 @@ public class TimeZoneConversion {
      *   Convert time to the server's timezone and return in TIMESTAMP format to be stored in mysql
      *
      */
-    public String getTimeInServerTimeZone(String inputDate) {
+    public String convertISOTimeToServerTime(String inputDate) {
 
 
         String regex = "Z";
@@ -29,6 +30,26 @@ public class TimeZoneConversion {
         OffsetDateTime timeAtLocalOffset = timeAtInputOffset.withOffsetSameInstant(localTimeZoneOffset);
 
         return timeAtLocalOffset.format(outputDateFormat);
+
     }
+
+
+    public String convertISOTimeToRequiredTime(String inputDate) {
+
+
+        String regex = "Z";
+        inputDate = inputDate.replaceAll(regex,"");
+
+        DateTimeFormatter inputDateFormat = DateTimeFormatter.ofPattern("uuuu-MM-dd'T'HH:mm:ssXXXXX");
+        DateTimeFormatter outputDateFormat = DateTimeFormatter.ofPattern("yyyy-MM-dd HH:mm:ss");
+
+        OffsetDateTime timeAtInputOffset = OffsetDateTime.parse(inputDate, inputDateFormat);
+        OffsetDateTime timeAtRequiredOffset = timeAtInputOffset.withOffsetSameInstant(ZoneOffset.ofHoursMinutes(10, 30));
+
+        return timeAtRequiredOffset.format(outputDateFormat);
+
+    }
+
+
 
 }
