@@ -1,6 +1,8 @@
 import org.junit.Before;
 import org.junit.Test;
 
+import java.security.NoSuchAlgorithmException;
+
 import static org.junit.Assert.*;
 
 public class DateFormaterWithRegexTest {
@@ -29,4 +31,8 @@ public class DateFormaterWithRegexTest {
 
     }
 
+    @Test
+    public void test_md5Sum() throws NoSuchAlgorithmException {
+        dateFormater.md5Sum();
+    }
 }
