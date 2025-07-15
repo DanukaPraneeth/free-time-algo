@@ -61,6 +61,35 @@ public class SinglyLinkedList<T> implements Iterable<T>{
         }
     }
 
+    // Remove duplicates
+    public void removeDuplicates(){
+        Node<T> current = head;
+        while (current != null && current.next != null) {
+            if (current.data.equals(current.next.data)) {
+                current.next = current.next.next;  // Skip the duplicate
+            } else {
+                current = current.next;            // Move forward
+            }
+        }           
+    }
+
+    // Remove duplicates recursively
+    public void removeDuplicatesRecur(){
+        head = rRemove(head);
+    }
+
+    private Node<T> rRemove(Node<T> curr){
+        if(curr == null){
+            return null;
+        }
+        curr.next = rRemove(curr.next);
+        if(curr.next != null && curr.data.equals(curr.next.data)){
+            return curr.next;
+        }
+        return curr;
+
+    }
+    
     // Print the LinkedList
     public String printList(){
         String answer = "";
@@ -118,13 +147,16 @@ public class SinglyLinkedList<T> implements Iterable<T>{
     public static void main(String[] args){
         SinglyLinkedList<Integer> list = new SinglyLinkedList<>();
         System.out.println(list.printList());
-        list.addToFront(10);
-        list.addToFront(20);
         list.addToFront(30);
+        list.addToFront(10);
+        list.addToFront(10);
         System.out.println(list.printList());
+        list.addToBack(30);
         list.addToBack(40);
-        list.addToBack(50);
-        System.out.println(list.printList());
+        System.out.println("before removing duplicates: " + list.printList());
+
+        list.removeDuplicatesRecur();
+        System.out.println("after removing duplicates: " + list.printList());       
         list.removeFromFront();
         list.removeFromBack();
         System.out.println(list.printList());
